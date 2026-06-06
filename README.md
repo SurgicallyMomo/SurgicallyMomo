@@ -1,9 +1,6 @@
 <img width="2048" height="2048" alt="Untitled84_20260607033353" src="https://github.com/user-attachments/assets/409effc5-4ff5-43ea-98d5-7538683204da" />
 <p align="center">
-song: unfit by kmfdm 
-<p align="center">
-art: me
-
+song: unfit by kmfdm
 <!--
 **SurgicallyMomo/SurgicallyMomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
